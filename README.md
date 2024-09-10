@@ -28,6 +28,7 @@ Follow these steps to clone and set up the project:
 ## Project Structure
 
 Here's a brief overview of the project structure:
+```
    Traitz-Interns-VueJs-TodoApp/
    ├── public/
    ├── src/
@@ -39,6 +40,7 @@ Here's a brief overview of the project structure:
    ├── .gitignore
    ├── package.json
    ├── README.md
+```
 
 ## Detailed Code Explanation
 
